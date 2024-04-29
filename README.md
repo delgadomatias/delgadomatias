@@ -1,4 +1,4 @@
-# Hi there! 👐
+# Hey there! 👐
 I'm Matias from Argentina, a Systems Engineering Student and self-taught software developer.<br />
 I have solid knowledge in **React** with **Typescript**. Striving to create reusable code that won't bite me down the road.<br />
 Lately, I've been working in Full Stack projects with **Next.JS**, also I've dedicated time to developing web pages with **Astro**.<br />
