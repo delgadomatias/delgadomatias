@@ -7,3 +7,4 @@ _I like to define myself as a problem solver. I also enjoy learning new tools th
 # Get in touch! 📫
 * [Instagram](https://instagram.com/mmatidelga2)
 * [Portfolio](https://www.matiasdelgado.com.ar)
+* [Gmail](mailto:matiasdelgadodev@gmail.com)
